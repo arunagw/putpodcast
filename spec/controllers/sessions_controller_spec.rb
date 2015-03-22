@@ -1,4 +1,4 @@
-require 'rails_helper'
+require "rails_helper"
 
 describe SessionsController, type: :controller do
   context "#create" do
